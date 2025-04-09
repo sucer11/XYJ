@@ -7,8 +7,6 @@ from utils.llm import LLM
 
 
 class Manager:
-    # email_username = "18438823698@163.com"
-    # email_authcode = "DRjRp6styzY8mFPX"
     email_username = "quoilam@163.com"
     email_authcode = "SXDmuWnphCXGUURV"
 

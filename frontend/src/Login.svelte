@@ -3,8 +3,6 @@
 
     let email = "quoilam@163.com";
     let password = "SXDmuWnphCXGUURV";
-    // let email = "18438823698@163.com";
-    // let password = "DRjRp6styzY8mFPX";
 
     function handleSubmit() {
         // Handle login logic here
